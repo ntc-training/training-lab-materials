@@ -1,0 +1,48 @@
+name,role__name,tenant__name,manufacturer__name,device_type__model,platform__name,status__name,location__name,rack__name,position,face
+aus01-dist-01,distribution,Nautobot Football Stadiums,Cisco,Catalyst 6509-E,Cisco IOS,Active,AUS01,aus01-101,26,front
+aus01-edge-01,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,AUS01,aus01-101,40,front
+aus01-edge-02,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,AUS01,aus01-102,40,front
+aus01-leaf-01,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,AUS01,aus01-101,44,front
+aus01-leaf-02,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,AUS01,aus01-102,44,front
+aus01-leaf-03,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,AUS01,aus01-103,44,front
+aus01-leaf-04,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,AUS01,aus01-104,44,front
+kol01-dist-01,distribution,Nautobot Football Stadiums,Cisco,Catalyst 6509-E,Cisco IOS,Active,KOL01,kol01-101,26,front
+kol01-edge-01,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,KOL01,kol01-101,40,front
+kol01-edge-02,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,KOL01,kol01-102,40,front
+kol01-leaf-01,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,KOL01,kol01-101,44,front
+kol01-leaf-02,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,KOL01,kol01-102,44,front
+kol01-leaf-03,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,KOL01,kol01-103,44,front
+kol01-leaf-04,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,KOL01,kol01-104,44,front
+kol01-leaf-05,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,KOL01,kol01-105,44,front
+kol01-leaf-06,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,KOL01,kol01-106,44,front
+kol01-leaf-07,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,KOL01,kol01-107,44,front
+kol01-leaf-08,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,KOL01,kol01-108,44,front
+lax03-dist-01,distribution,Nautobot Football Stadiums,Cisco,Catalyst 6509-E,Cisco IOS,Active,LAX03,lax03-101,26,front
+lax03-edge-01,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,LAX03,lax03-101,40,front
+lax03-edge-02,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,LAX03,lax03-102,40,front
+lax03-leaf-01,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LAX03,lax03-101,44,front
+lax03-leaf-02,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LAX03,lax03-102,44,front
+lax03-leaf-03,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LAX03,lax03-103,44,front
+lax03-leaf-04,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LAX03,lax03-104,44,front
+lon01-dist-01,distribution,Nautobot Football Stadiums,Cisco,Catalyst 6509-E,Cisco IOS,Active,LON01,lon01-101,26,front
+lon01-edge-01,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,LON01,lon01-101,40,front
+lon01-edge-02,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,LON01,lon01-102,40,front
+lon01-leaf-01,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LON01,lon01-101,44,front
+lon01-leaf-02,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LON01,lon01-102,44,front
+lon01-leaf-03,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LON01,lon01-103,44,front
+lon01-leaf-04,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LON01,lon01-104,44,front
+lon01-leaf-05,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LON01,lon01-105,44,front
+lon01-leaf-06,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LON01,lon01-106,44,front
+lon01-leaf-07,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LON01,lon01-107,44,front
+lon01-leaf-08,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,LON01,lon01-108,44,front
+mad01-dist-01,distribution,Nautobot Football Stadiums,Cisco,Catalyst 6509-E,Cisco IOS,Active,MAD01,mad01-101,26,front
+mad01-edge-01,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,MAD01,mad01-101,40,front
+mad01-edge-02,edge,Nautobot Football Stadiums,Arista,DCS-7280CR2-60,Arista EOS,Active,MAD01,mad01-102,40,front
+mad01-leaf-01,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,MAD01,mad01-101,44,front
+mad01-leaf-02,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,MAD01,mad01-102,44,front
+mad01-leaf-03,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,MAD01,mad01-103,44,front
+mad01-leaf-04,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,MAD01,mad01-104,44,front
+mad01-leaf-05,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,MAD01,mad01-105,44,front
+mad01-leaf-06,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,MAD01,mad01-106,44,front
+mad01-leaf-07,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,MAD01,mad01-107,44,front
+mad01-leaf-08,leaf,Nautobot Football Stadiums,Arista,DCS-7150S-24,Arista EOS,Active,MAD01,mad01-108,44,front

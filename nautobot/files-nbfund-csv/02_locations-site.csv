@@ -1,0 +1,6 @@
+name,location_type__name,status__name,parent__name,tenant__name,facility
+AUS01,Site,Active,Australia,Nautobot Football Stadiums,Melbourne Cricket Ground
+KOL01,Site,Active,India,Nautobot Football Stadiums,Salt Lake Stadium
+LAX03,Site,Active,United States,Nautobot Football Stadiums,Rose Bowl
+LON01,Site,Active,United Kingdom,Nautobot Football Stadiums,Wembley Stadium
+MAD01,Site,Active,Spain,Nautobot Football Stadiums,Santiago Bernabeu Stadium

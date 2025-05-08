@@ -1,0 +1,6 @@
+name,content_types,color
+mgmt,"ipam.ipaddress,ipam.prefix,ipam.vlan",9c27b0
+point-to-point,"ipam.ipaddress,ipam.prefix,ipam.vlan",2196f3
+pop,"ipam.ipaddress,ipam.prefix,ipam.vlan",ff9800
+POP Global Pool,"ipam.ipaddress,ipam.prefix,ipam.vlan",3f51b5
+server,"ipam.ipaddress,ipam.prefix,ipam.vlan",03a9f4

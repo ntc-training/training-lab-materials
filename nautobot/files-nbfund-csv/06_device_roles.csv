@@ -1,0 +1,7 @@
+name,content_types,color,weight
+Backbone,"dcim.device,virtualization.virtualmachine",9c27b0,0
+distribution,"dcim.device,virtualization.virtualmachine",2196f3,1
+edge,"dcim.device,virtualization.virtualmachine",ff9800,2
+leaf,"dcim.device,virtualization.virtualmachine",3f51b5,3
+Router,"dcim.device,virtualization.virtualmachine",03a9f4,4
+spine,"dcim.device,virtualization.virtualmachine",ffeb3b,5

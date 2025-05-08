@@ -1,0 +1,8 @@
+name,manufacturer__name,network_driver
+Arista EOS,Arista,arista_eos
+Cisco ASA,Cisco,cisco_asa
+Cisco IOS,Cisco,cisco_ios
+Cisco IOS-XE,Cisco,cisco_xe
+Cisco IOS-XR,Cisco,cisco_iosxr
+Cisco NX-OS,Cisco,cisco_nxos
+Palo Alto PAN-OS,Palo Alto,paloalto_panos

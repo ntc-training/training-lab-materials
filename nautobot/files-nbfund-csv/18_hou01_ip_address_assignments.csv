@@ -1,0 +1,7 @@
+ip_address__host,ip_address__parent__namespace__name,interface__name,interface__device__name
+10.45.0.0,Global,Ethernet1/1,hou01-edge-01
+10.45.0.2,Global,Ethernet2/1,hou01-edge-01
+10.45.0.4,Global,Ethernet3/1,hou01-edge-01
+10.45.0.5,Global,Ethernet1,hou01-leaf-01
+10.45.0.7,Global,Ethernet2,hou01-leaf-01
+10.45.0.8,Global,Ethernet4/1,hou01-edge-01
